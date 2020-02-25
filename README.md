@@ -1,5 +1,7 @@
 # Triangle-Fun
 A class named Triangle that extends GeometricObject and implements the Comparable interface.
+
+
 The class contains:
 • Three double data fields named side1, side2, and side3. with default values 1.0 to denote three
 sides of the triangle.
