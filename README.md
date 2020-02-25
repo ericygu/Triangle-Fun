@@ -20,6 +20,7 @@ sides of the triangle.
 • Overrides the equals method in the Object class. Two Triangle objects are equal if all of the sides
 are in the same length.
 
-• A method named toString() that returns a string description for the triangle. The description
-is as follows:
+• A method named toString() that returns a string description for the triangle. 
+
+The description is as follows:
 return ”Triangle: side1 = ” + side1 + ”side2 = ” + side2 + ” side3 = ” + side3
